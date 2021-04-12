@@ -20,6 +20,30 @@ function draw() {
   
   textSize(25);
   text("9",480,210);
+  
+   textSize(25);
+  text("1",650,120);
+
+  textSize(25);
+  text("2",690,155);
+
+  textSize(25);
+  text("4",690,270);
+
+  textSize(25);
+  text("5",650,310);
+
+  textSize(25);
+  text("7",540,305);
+
+  textSize(25);
+  text("8",495,265);
+
+  textSize(25);
+  text("10",480,150);
+
+  textSize(25);
+  text("11",525,105);
 
   translate(600,200);
 
